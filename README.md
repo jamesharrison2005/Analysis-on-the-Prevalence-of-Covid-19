@@ -17,6 +17,9 @@ Granularity: Daily, country-level data
  - Pandas & NumPy
  - Matplotlib / Seaborn
  - Google Colab
+ - Tableau
+
+The Dashboard can be viewed at: https://public.tableau.com/app/profile/james.harrison7128/viz/GrowthofCOVID-19/Dashboard1
 
 
 
